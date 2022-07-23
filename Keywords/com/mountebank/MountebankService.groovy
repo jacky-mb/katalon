@@ -22,6 +22,7 @@ public class MountebankService {
 
 	@Keyword
 	def addStubs(int port,def stubs) {
+		println(stubs)
 		def url = "${GlobalVariable.SERVER}/imposters/${port}/stubs"
 		def request = new RestRequestObjectBuilder().withRestRequestMethod("POST").withRestUrl(url).withTextBodyContent(stubs, 'utf-8').build()
 		try {

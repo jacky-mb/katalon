@@ -6,6 +6,7 @@
    <UUID>a1365301-2788-4473-8b1f-8e0877aacba9</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>E:\mountebank_katalon\mountebank.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

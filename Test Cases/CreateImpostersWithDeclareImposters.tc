@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test</name>
+   <name>CreateImpostersWithDeclareImposters</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b1be3ab8-d71d-4038-8572-64861fd07628</testCaseGuid>
+   <testCaseGuid>e68332a6-8ba4-431b-9ad5-9244f2ea2edb</testCaseGuid>
 </TestCaseEntity>
